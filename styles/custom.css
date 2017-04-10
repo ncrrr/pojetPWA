@@ -1,0 +1,34 @@
+.hidden {
+	visibility : hidden;
+	height: 0;
+}
+
+.brand-chill{
+	font-family:'Open Sans','Helvetica Neue',Arial,sans-serif;
+	text-transform: uppercase;
+	text-transform: none !important;
+	color:black;
+}
+.brand-coding{
+	font-weight: 700;
+}
+.brand-o{
+	color: #35E0B4;
+}
+.brand-chill:hover{
+	text-decoration: none;
+	color: #00274a;
+}
+
+.text-green{
+	color: #70BF41;
+}
+.text-yellow{
+	color: #F5D328;
+}
+.text-orange{
+	color: #F39019;
+}
+.text-blue{
+	color: #51A7F9;
+}
